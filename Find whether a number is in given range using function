@@ -1,0 +1,6 @@
+def search(n):
+   if n in range(0,100):
+       print("in range")
+   else:
+       print("not in range")
+search(500)
